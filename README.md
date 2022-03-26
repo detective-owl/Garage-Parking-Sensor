@@ -6,7 +6,7 @@ HC-SR04 Distance sensor with LCD and LED distance interface.
 2. 1 IC2 LCD Display
 3. 1 Arduino Uno
 4. LED (3 Red, 2 Yellow, 1 Green)
-5. 11 Resistors
+5. 11 Resistors (150 OHM)
 
 ### ARDUINO CONNECTIONS:
 *HC-SR04*
