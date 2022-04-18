@@ -1,5 +1,10 @@
 # Garage-Parking-Sensor
-HC-SR04 Distance sensor with LCD and LED distance interface. 
+HC-SR04 Distance sensor with LCD and LED distance interface. This project aims to use an ultrasonic distance sensor to measure the disance the the car or any object and shows the current distance on the LCD Display and 12 LED's light up according to the distance specified. 
+
+### Files:
+1. Garage Sensor PCB Design with Top and Bottom= All the connections ang the PCB design. 
+2. Garage Sensor with LED.ino= Code the Ultrasonic Garage Sensor With LED's 
+3. No Ground Plate= Gerber File of the PCB
 
 ### MATERIALS USED:
 1. 1 Ultrasonic Sensor HC-SR04
